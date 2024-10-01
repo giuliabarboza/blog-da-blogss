@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(255, 229, 144);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+fieldset {
+    display: flex;
+    background-color: orange;
+    color: white;
+    border-radius: 7px;
+    border-style: hidden;
+    width: 660px;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 28%;
+}
+
+.div-cabecalho {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: orange;
+    color: white;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: orange;
+    color: white;
+    height:40px;
+}
